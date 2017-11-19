@@ -6507,6 +6507,7 @@ $wgConf->settings = array(
 		'malaysiawiki' => true,
 		'panoramawiki' => false,
 		'testwiki' => false,
+		'ubrwiki' => true,
 	),
 	'wmgVisualEditorAvailableNamespaces' => array(
 		'default' => array(
